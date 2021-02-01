@@ -1,0 +1,45 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "/Users/torsten/Documents/GitHub/egovadventure/map1"
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "floortileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "https___1k-dezentral-remote-clubhaus-friends_maps_at_rc3_world__BaseChip_pipo.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "https___1k-dezentral-remote-clubhaus-friends_maps_at_rc3_world__rc3-mullana-neon-signs.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map2.tmx#floortileset": {
+            "scaleInDock": 1
+        },
+        "tilesets_deviant_milkian_1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+    ],
+    "project": "map2.tiled-project",
+    "recentFiles": [
+        "https___1k-dezentral-remote-clubhaus-friends_maps_at_rc3_world__rc3-mullana-neon-signs.tsx",
+        "https___1k-dezentral-remote-clubhaus-friends_maps_at_rc3_world__BaseChip_pipo.tsx",
+        "tilesets_deviant_milkian_1.tsx",
+        "floortileset.tsx",
+        "map2.tmx",
+        "map1.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
